@@ -1,5 +1,5 @@
 
-##How to run:
+## How to run:
 
 `$ composer install`
 
@@ -9,11 +9,11 @@
 
 `$ php bin\console doctrine:fixtures:load`
 
-##Tests
+## Tests
 
 `$ php bin\phpunit`
 
-##API methods:
+## API methods:
 
 - [GET] `/users` - get list of users
 - [POST] `/users` - create a user
